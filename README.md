@@ -1,4 +1,4 @@
-### Hi, I'm Ashley! 👋
+# Hi, I'm Ashley! 👋
 
 I'm currently a student at the University of British Columbia, studying Business and Computer Science. I like learning about a wide variety of things and am working towards finding my career path. 
 
@@ -8,8 +8,9 @@ I'm currently a student at the University of British Columbia, studying Business
 - Web Design
 
 ## In my freetime
-- I love discovering music, curating playlists, and hosting open mics
-- Recently, I've been playing some video games like Tetris, Stardew Valley, or distant board games like Codenames
+- I love discovering + playing music, curating playlists, and hosting open mics
+- I've been playing some video games like Tetris, Stardew Valley, or distant board games like Codenames
+- Photography + videography are some things to give me a creative outlet
 
 ## Reach Me
 [LinkedIn](https://www.linkedin.com/in/ashleykobayashi/) | [Email](a.mkobayashi@hotmail.com)
