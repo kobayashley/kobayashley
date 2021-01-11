@@ -9,7 +9,7 @@ I'm currently a student at the University of British Columbia, studying Business
 
 ## In my freetime 🛹
 - I love discovering + playing music, curating playlists, and hosting open mics
-- I've been playing some video games like Tetris, Stardew Valley, or distant board games like Codenames
+- I've been playing some games like Tetris, Stardew Valley, or distant board games like Codenames. I'm pumped for the release of Totally Reliable Delivery Service
 - Photography + videography are some things to give me a creative outlet
 
 ## Reach Me ☎️
